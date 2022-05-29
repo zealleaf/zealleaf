@@ -1,5 +1,5 @@
 ### Hi there! 👋  
-My name is Ye Zhiling, let's surf the web together~ 🏄‍♂️
+My name is Ye Zhiling. Let's surf the web together~ 🏄‍♂️
 
 <!--
 **zealleaf/zealleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
