@@ -1,0 +1,25 @@
+{
+  "name": "zealleaf",
+  "version": "0.0.0",
+  "description": "Hi, I am zealleaf",
+  "main": "index.js",
+  "bin": {
+    "zealleaf": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zealleaf/zealleaf.git"
+  },
+  "author": "zealleaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zealleaf/zealleaf/issues"
+  },
+  "homepage": "https://github.com/zealleaf/zealleaf#readme",
+  "dependencies": {
+    "open": "^9.1.0"
+  }
+}
