@@ -1,4 +1,6 @@
 #!/usr/bin/env node
-"use strict";
 
-require("open")("https://zealleaf.me");
+"use strict";
+import open from "open";
+
+open("https://zealleaf.me");

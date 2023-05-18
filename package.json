@@ -3,8 +3,9 @@
   "version": "0.0.0",
   "description": "Hi, I am zealleaf",
   "main": "index.js",
+  "type": "module",
   "bin": {
-    "zealleaf": "./index.js"
+    "zealleaf": "index.js"
   },
   "files": [
     "index.js"
@@ -21,5 +22,10 @@
   "homepage": "https://github.com/zealleaf/zealleaf#readme",
   "dependencies": {
     "open": "^9.1.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
 }
